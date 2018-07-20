@@ -1,6 +1,6 @@
 {
   "name": "bplugin-demo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "plugin.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "author": "",
   "license": "MIT",
   "peerDependencies": {
+    "bcoin": "^1.0.2"
+  },
+  "devDependencies": {
     "bcoin": "^1.0.2"
   }
 }
